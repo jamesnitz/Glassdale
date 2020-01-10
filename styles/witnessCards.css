@@ -1,0 +1,16 @@
+
+.witness_text{
+  display: flex;
+  flex-wrap: wrap;
+  }
+
+.witness_card{
+  background-color: lightgray;
+  border: 1px dotted lightblue;
+  flex-basis: 31%;
+  margin: 10px;
+  max-width: 25%;
+  -webkit-box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(0,0,0,0); 
+  box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  padding: 20px; 
+}
